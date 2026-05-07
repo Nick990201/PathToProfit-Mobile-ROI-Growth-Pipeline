@@ -2,7 +2,7 @@
 
 ![Profitability Analysis](profit_chart.png)
 
-The Origin Story
+The Origin Story:
 While working on an upcoming mobile app launch, I started asking myself some critical business questions that every startup faces:
 * **How ​​exactly will they make money?**
 * **What is their marketing strategy and at what cost?**
